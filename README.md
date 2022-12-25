@@ -28,4 +28,8 @@ Prefix (mac): ctrl + b
 - Switch windows: Ctrl + B and type <window number>
 
 ### 2.3. Panes
-- xxx
+- Split vertically: prefix + %
+- Split horizontally: prefix + "
+- Move to next screen: prefix + o
+- Close a pane: prefix + x
+- 

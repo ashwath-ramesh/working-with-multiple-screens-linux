@@ -22,12 +22,17 @@ Prefix (mac): ctrl + b
 - Disconnect from a session: ```Prefix d```
 
 ### 2.2. Window
-- Window: xxx
+- Window: ```Predix c```
 - Switch windows: Ctrl + B and type <window number>
+- Rename windos: ```Prefix ,```
+- Previous window: ```Prefix p```
+- Next window: ```Prefix n```
+- Kill window: ```Prefix &```
 
 ### 2.3. Panes
 - Split vertically: ```Prefix %```
 - Split horizontally: ```Prefix "```
 - Move to next screen: ```Prefix o```
+- Change panes: ```Prefix <arrow keys>```
 - Close a pane: ```Prefix x```
-- 
+- Zoom into/out of pane: ```Prefix z```

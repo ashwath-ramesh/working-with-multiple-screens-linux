@@ -36,3 +36,6 @@ Prefix (mac): ctrl + b
 - Change panes: ```Prefix <arrow keys>```
 - Close a pane: ```Prefix x```
 - Zoom into/out of pane: ```Prefix z```
+
+### References
+- ```https://tmuxcheatsheet.com/```

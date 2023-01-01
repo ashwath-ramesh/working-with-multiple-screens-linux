@@ -20,6 +20,7 @@ Prefix (mac): ctrl + b
 - List all sessions (with a prefix, to scroll through): ```Prefix s```
 - Go to a specific session: ```tmux a -t *mysession*```
 - Disconnect from a session: ```Prefix d```
+- Kill session: ```tmux kill-session -t mysession```
 
 ### 2.2. Window
 - Window: ```Predix c```

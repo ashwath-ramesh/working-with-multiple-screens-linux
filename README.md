@@ -23,8 +23,8 @@ Prefix (mac): ctrl + b
 
 ### 2.2. Window
 - Window: ```Predix c```
-- Switch windows: Ctrl + B and type <window number>
-- Rename windos: ```Prefix ,```
+- Rename windows: ```Prefix ,```
+- Switch windows: ```Prefix <window number>```
 - Previous window: ```Prefix p```
 - Next window: ```Prefix n```
 - Kill window: ```Prefix &```
